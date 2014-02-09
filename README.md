@@ -1,4 +1,4 @@
-springBeanNamesTest
+springAOPTest
 ===================
 
 Simple test off spring AOP functionality.
